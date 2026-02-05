@@ -32,4 +32,9 @@ public class ItemController {
     public ResponseEntity<?> getAllItems() {
         return ResponseEntity.ok(service.getAllItems());
     }
+    @GetMapping("/")
+    public String home() {
+        return "Item API is LIVE 🚀";
+    }
+
 }
