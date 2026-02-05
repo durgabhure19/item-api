@@ -1,4 +1,4 @@
-# Item API – Spring Boot REST Application
+# Item API – Spring Boot REST Application Deployed on Railway Cloud Platform
 
 This is a simple RESTful API built using **Spring Boot** that allows users to manage items with in-memory data storage.
 
@@ -30,7 +30,10 @@ https://item-api-production-9671.up.railway.app/items
 4. Server starts on:
 
 ```
-http://localhost:8081
+Server runs on a dynamic port when deployed to cloud platforms.
+For local development:
+http://localhost:8080
+
 ```
 
 ## 📌 API Endpoints
