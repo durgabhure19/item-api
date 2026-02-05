@@ -18,6 +18,10 @@ This is a simple RESTful API built using **Spring Boot** that allows users to ma
 * Maven
 * REST APIs
 
+## 🚀 Live Demo
+https://item-api-production-9671.up.railway.app/items
+
+
 ## ▶️ How to Run
 
 1. Clone the repository
